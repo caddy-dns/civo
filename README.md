@@ -30,19 +30,14 @@ To use this module for the ACME DNS challenge, [configure the ACME issuer in you
 or with the Caddyfile:
 
 ```
-# globally
-{
-	acme_dns civo {
-	    api_token      = "{env.CIVO_TOKEN}"
+tls {
+	dns civo {
+		api_token {env.CIVO_TOKEN}
 	}
 }
 ```
 
-```
-# one site
-tls {
-	dns civo {
-	    api_token      = "{env.CIVO_TOKEN}"
-	}
-}
-```
+
+## Authenticating
+
+See [the associated README in the libdns package](https://github.com/libdns/civo) for important information about credentials.
