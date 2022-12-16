@@ -55,8 +55,8 @@ github.com/cespare/xxhash/v2 v2.1.2/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XL
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
-github.com/civo/civogo v0.3.19 h1:BPRsD++bR7RYu2KtZJmQxazIWYij37U+baLR8u42oWs=
-github.com/civo/civogo v0.3.19/go.mod h1:SbS06e0JPgIF27r1sLC97gjU1xWmONQeHgzF1hfLpak=
+github.com/civo/civogo v0.3.20 h1:S8tGseywYcoHGMNWZNgxw8XHNALCQJjoKo+P95qfsfE=
+github.com/civo/civogo v0.3.20/go.mod h1:SbS06e0JPgIF27r1sLC97gjU1xWmONQeHgzF1hfLpak=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -169,8 +169,8 @@ github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515/go.mod h1:+0opPa2QZZtGFB
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/libdns/civo v0.1.4 h1:cxGY3RTVxzosr+4g9obZPKwogR32k64fDjmRHBtHtJQ=
-github.com/libdns/civo v0.1.4/go.mod h1:RQOcFaj3kUZBuftTo81tS4OZlUoPU0Q6ovf1i59bmmA=
+github.com/libdns/civo v0.1.5 h1:RYqjxSd71QMG6sgwpHc4TkbgL0fYSZV+fzH8fpIpn1I=
+github.com/libdns/civo v0.1.5/go.mod h1:3i5m3Uzua3oY1TB6gZyQq5RUq6G/K226d6gn2sAZxUo=
 github.com/libdns/libdns v0.2.1 h1:Wu59T7wSHRgtA0cfxC+n1c/e+O3upJGWytknkmFEDis=
 github.com/libdns/libdns v0.2.1/go.mod h1:yQCXzk1lEZmmCPa857bnk4TsOiqYasqpyOEeSObbb40=
 github.com/lucas-clemente/quic-go v0.29.2 h1:O8Mt0O6LpvEW+wfC40vZdcw0DngwYzoxq5xULZNzSI8=
