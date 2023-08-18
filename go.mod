@@ -3,13 +3,13 @@ module github.com/caddy-dns/civo
 go 1.19
 
 require (
-	github.com/caddyserver/caddy/v2 v2.7.3
+	github.com/caddyserver/caddy/v2 v2.7.4
 	github.com/libdns/civo v0.1.17
 )
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/caddyserver/certmagic v0.19.1 // indirect
+	github.com/caddyserver/certmagic v0.19.2 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/civo/civogo v0.3.42 // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
@@ -36,17 +36,17 @@ require (
 	github.com/prometheus/procfs v0.8.0 // indirect
 	github.com/quic-go/qpack v0.4.0 // indirect
 	github.com/quic-go/qtls-go1-20 v0.3.1 // indirect
-	github.com/quic-go/quic-go v0.37.3 // indirect
+	github.com/quic-go/quic-go v0.37.5 // indirect
 	github.com/zeebo/blake3 v0.2.3 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.25.0 // indirect
-	golang.org/x/crypto v0.11.0 // indirect
+	golang.org/x/crypto v0.12.0 // indirect
 	golang.org/x/exp v0.0.0-20230310171629-522b1b587ee0 // indirect
 	golang.org/x/mod v0.11.0 // indirect
-	golang.org/x/net v0.12.0 // indirect
-	golang.org/x/sys v0.10.0 // indirect
-	golang.org/x/term v0.10.0 // indirect
-	golang.org/x/text v0.11.0 // indirect
+	golang.org/x/net v0.14.0 // indirect
+	golang.org/x/sys v0.11.0 // indirect
+	golang.org/x/term v0.11.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/tools v0.10.0 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
