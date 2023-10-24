@@ -4,14 +4,14 @@ go 1.19
 
 require (
 	github.com/caddyserver/caddy/v2 v2.7.5
-	github.com/libdns/civo v0.1.20
+	github.com/libdns/civo v0.1.21
 )
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/caddyserver/certmagic v0.19.2 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
-	github.com/civo/civogo v0.3.47 // indirect
+	github.com/civo/civogo v0.3.51 // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
